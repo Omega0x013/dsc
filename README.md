@@ -31,7 +31,7 @@ In each encounter there are three buffs:
 | Operator   | Red    | DOES things       |
 | Supressor* | Blue   | STUNS taniks      |
 
-* The supressor buff only appears in Rapture and the boss fight.
+\* The supressor buff only appears in Rapture and the boss fight.
 
 ### Sparrows
 

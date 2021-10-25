@@ -3,6 +3,15 @@
 ## Contents
 
 - [Foreword](#foreword)
+- [Encounters](#encounters)
+  - [Sparrows](#sparrows)
+  - [Security](#security)
+  - [Atraks](#atraks)
+  - [Parkour](#parkour)
+  - [Rapture](#rapture)
+  - [Taniks](#taniks)
+- [Secrets](#secrets)
+- [Side-Effects](#side-effects)
 
 ## Foreword
 

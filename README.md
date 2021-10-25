@@ -2,7 +2,8 @@
 
 ## Contents
 
-- (Foreword)[#foreword]
+- [Foreword](#foreword)
+- [Foreword]
 
 ## Foreword
 

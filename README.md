@@ -12,6 +12,7 @@
   - [Taniks](#taniks)
 - [Secrets](#secrets)
 - [Side-Effects](#side-effects)
+- [Credits](#credits)
 
 ## Foreword
 
@@ -34,11 +35,11 @@ This is meant to be an absolute technical guide to the Deep Stone Crypt, not an 
 
 In each encounter there are three buffs:
 
-| Name       | Colour | Basic Description |
-|------------|--------|-------------------|
-| Scanner    | Yellow | SEES things       |
-| Operator   | Red    | DOES things       |
-| Supressor* | Blue   | STUNS taniks      |
+| Name       | Colour | Basic Description   |
+|------------|--------|---------------------|
+| Scanner    | Yellow | `SEES` things       |
+| Operator   | Red    | `DOES` things       |
+| Supressor* | Blue   | `STUNS` taniks      |
 
 \* The supressor buff only appears in Rapture and the boss fight.
 
@@ -52,11 +53,20 @@ In each encounter there are three buffs:
 
 ### Rapture
 
+
+
 ### Taniks
 
+## Secrets
 
 ## Side-Effects
 
 ### Worlds-First
 
 ### Personal
+
+## Credits
+
+| **link**                                      | **resource**               |
+|-----------------------------------------------|----------------------------|
+| [link](https://imgur.com/user/vargamatemedia) | Illustrated Encounter Maps |

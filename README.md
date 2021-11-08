@@ -24,7 +24,7 @@ An opinionated guide on best practices for experienced teams, and for carrying/t
 
 This is meant to be an absolute technical guide to the Deep Stone Crypt, not an exploration of the lore. It is meant for players who want to understand in depth how the encounters work and best practices and callouts. You should have completed it several times and be interested in teaching it for this to be useful to you. This is not designed to be a beginner guide. In order to complete all of the actions described in this guide you must be reasonably competent and efficient enough not to be overwhelmed by adds.
 
-**Sidenote**: I have ADHD so it is very likely that I will not complete this fully. I'm very open to improvements so if you want to add something please make a PR and I'll try and have a look.
+**Sidenote**: I have ADHD-I so it is very likely that I will not complete this fully. I'm very open to improvements so if you want to add something please make a PR and I'll try and have a look.
 
 ## Loot Table
 

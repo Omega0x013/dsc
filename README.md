@@ -14,7 +14,7 @@ An opinionated guide on best practices for experienced teams, and for carrying/t
   - [:unlock: Security](#security)
   - [:person_fencing: Atraks](#atraks)
   - [:climbing_woman: Parkour](#parkour)
-  - [:volleyball: Rapture](#rapture)
+  - [:volleyball: Descent](#descent)
   - [:man_in_motorized_wheelchair: Taniks](#taniks)
 - [:vhs: Secrets](#secrets)
 - [:bookmark_tabs: Side-Effects](#side-effects)
@@ -24,7 +24,7 @@ An opinionated guide on best practices for experienced teams, and for carrying/t
 
 This is meant to be an absolute technical guide to the Deep Stone Crypt, not an exploration of the lore. It is meant for players who want to understand in depth how the encounters work and best practices and callouts. You should have completed it several times and be interested in teaching it for this to be useful to you. This is not designed to be a beginner guide. In order to complete all of the actions described in this guide you must be reasonably competent and efficient enough not to be overwhelmed by adds.
 
-**Sidenote**: I have ADHD-I so it is very likely that I will not complete this fully. I'm very open to improvements so if you want to add something please make a PR and I'll try and have a look.
+**Sidenote**: I have ADHD-C so it is very likely that I will not complete this fully. I'm very open to improvements so if you want to add something please make a PR and I'll try and have a look.
 
 ## Loot Table
 
@@ -38,7 +38,7 @@ This is meant to be an absolute technical guide to the Deep Stone Crypt, not an 
 | `RESTRICTED`      | Security       | Security | [link](#security) | :unlock: |
 | `CLARITY CONTROL` | Atraks         | Atraks | [link](#atraks)   | :person_fencing: |
 | `DESCENT`         | Parkour        | Parkour | [link](#parkour)  | :climbing_woman: |
-| `RAPTURE`         | Taniks 1       | Rapture | [link](#rapture)  | :volleyball: |
+| `RAPTURE`         | Taniks 1       | Descent | [link](#rapture)  | :volleyball: |
 | `RESTRICTED`      | Final Boss    | Taniks | [link](#taniks)   | :man_in_motorized_wheelchair: |
 
 ### Overview
@@ -51,7 +51,7 @@ This is meant to be an absolute technical guide to the Deep Stone Crypt, not an 
 | Operator   | Red | :red_square:    | `DOES` things       |
 | Supressor* | Blue | :blue_square:   | `STUNS` Taniks      |
 
-\* The :blue_square: Supressor buff only appears in [Rapture](#rapture) and [Taniks](#taniks).
+\* The :blue_square: Supressor buff only appears in [Descent](#descent) and [Taniks](#taniks).
 
 #### Things to bring
 
@@ -59,7 +59,7 @@ This is meant to be an absolute technical guide to the Deep Stone Crypt, not an 
 
 | Image | Description |
 |---|---|
-| ![seasonal champion mods that change every season](./images/gear/mods.png) | **Overload**: Security and Rapture contain overload captains, so the correct related seasonal mode is required to deal with them. Replace the loadout's kinetic shotgun with whatever is needed. |
+| ![seasonal champion mods that change every season](./images/gear/mods.png) | **Overload**: Security and Descent contain overload captains, so the correct related seasonal mode is required to deal with them. Replace the loadout's kinetic shotgun with whatever is needed. |
 | ![risk runner primary exotic sub machine gun season 1](./images/gear/riskrunner.png) | **Riskrunner**: The main weapon you need to be bringing is Riskrunner. It is an Arc SMG that provides Arc resistance and deals chain lightning after being hit by Arc damage. Most damage in the first two encounters and the parkour section is Arc damage, so it procs near-constantly. |
 | ![heritage shotgun found in this raid](./images/gear/heritage.png) | **Kinetic Shotgun**: Throughout all the encounters having a kinetic shotgun will be necessary. Ideally, it is a slug shotgun - the trait `Precision Frame`. But know that not all `Precision Frame` shotguns are slug shotguns. Use this shotgun for killing adds, or for boss DPS if there is not an overriding meta - like `One Thousand Voices` in season 15. It is also used to supress the boss in the boss encounter. |
 | ![falling guillotine with whirlwind blade](./images/gear/falling-guillotine.png) | **Void Sword**: An elementally void sword is a must-have item, as the only combatant shields present are void, and the best swords are void. Pictured here is `Falling Guillotine` with the trait `Whirlwind Blade`. This deals the highest DPS across all swords. An alternative for titans is `Crown-Splitter`. |
@@ -182,15 +182,17 @@ As the new :red_square: Operator, you need to go to the door at the end of the r
 
 You now shoot all the panels, and then perform :red_square: **Changeover**.
 
-#### :calendar: Challenge - `Red Rover`
+#### :calendar: Challenge
 
-The challenge for Security is called Red Rover; each player must complete the role of the :red_square: Operator at least once.
+> Red Rover
+
+All 6 players must do the :red_square: Operator role at least once.
 
 Number yourselves in roster order. #1 picks up :red_square: Operator first. Dark side is scanned and they let :yellow_square: Scanner through and shoot those panels. Then they send the buff up and #2 picks it up. #2 rescues them as shown in :red_square: **Opening the fuses (2)**. Damage phase starts and **Changeover** occurs, with #3 acquiring :red_square: Operator.
 
 Two fuses are destroyed, and :yellow_square: Scanner in the :small_red_triangle_down: Basement scans both and the next :red_square: Operator rescues them, then swaps. Rinse and Repeat in roster order until the fuses are destroyed.
 
-If one player fails to operate or picks up the buff twice, the challenge is failed.
+If one player fails to operate, operates twice, or if any player dies in the :small_red_triangle_down: Basement, the challenge is failed.
 
 ---
 
@@ -234,7 +236,7 @@ The elevators can be used by anyone by stepping into them and `USE`ing them. The
 
 ##### Boss Locations
 
-See the **Encounter Map** for their locations within the map. The Atraks-s are named from where you enter the room.
+See the **Encounter Map** for their locations within the map. The Atraks-s are named from where you enter each room.
 
 ###### :arrow_down: Downstairs
 
@@ -284,6 +286,9 @@ If you have three Cuirass Thundercrashes, then send them all up to the top floor
 
 #### :calendar: Challenge
 
+> Copies Of Copies
+
+No :biohazard: Atraks-1 Replications may be removed via airlock or death.
 
 ### Parkour
 
@@ -291,13 +296,13 @@ If you have three Cuirass Thundercrashes, then send them all up to the top floor
 
 #### :information_source: Outline
 
-The parkour section is relatively obvious in its structure. The easiest route is to stick to the right hand side of the station, then detour to collect the chest, rather than attempting the underside jump, especially with newbies in the mix. Understand my poor markup skills, I'm not a graphic designer.
+Go to the right and stick to that side until you are opposite the secret chest. Detour for it and then continue on.
 
 #### :guard: Gear
 
 ---
 
-### Rapture
+### Descent
 
 ![Map rapture](./images/maps/rapture.png)
 
@@ -335,14 +340,38 @@ There are four :radioactive: Core deposit points, called :wastebasket: bins, arr
 |---|---|---|---|---|
 | | | Boss | | |
 | | `L2` | | `R2` | |
-| :radio_button: | `L1` | | `R1` | :radio_button: |
-| | | :radio_button: | | |
+| :yellow_circle: | `L1` | | `R1` | :yellow_circle: |
+| | | :yellow_circle: | | |
+
+##### Two-Ball
+
+Initially, two :wastebasket: boxes will glow. Call out their locations.
+
+##### Three-Ball
+
+If the :red_square: Operator fails to do their job then three :wastebasket: boxes will glow and three :radioactive: bombs will spawn. Call out all three again to make it clear.
 
 #### :red_square: Operator
 
+Adjacent to each of the :radioactive: bomb spawn locations there are :red_square: perator panels, during a phase three will glow that correspond to the three bomb spawn locations.
+
+When '**Several nuclear cores begin charging**' appears, the :red_square: Operator's task has begun for each phase. Count down from five in your head, and shoot one of the glowing panels to cause the :radioactive: bomb spawn. Prefer to shoot the panels further from the center.
+
+##### Not shooting panels
+
+Three of the four :radioactive: bomb spawn locations will glow yellow and their panels will glow. If the :red_square: Operator is not held or the holder does not shoot a valid panels then three :radioactive: bombs will spawn. By shooting a panel you deny the :radioactive: bomb spawn at that location, but cause the other two.
+
 #### :blue_square: Supressor
 
+The :blue_square: Supressor interacts with the :yellow_circle: security drones. The :blue_square: Supressor should begin at either of the edge :yellow_circle: drones.
+
+The :blue_square: Supressor shoots Taniks whilst standing inside each of the three circles beneath the :yellow_circle: security drones. The faster the :blue_square: Supressor is at their task the more likely it is that everyone will survive.
+
 #### :calendar: Challenge
+
+> Of All Trades
+
+Everyone does each job once.
 
 ---
 
@@ -361,6 +390,10 @@ There are four :radioactive: Core deposit points, called :wastebasket: bins, arr
 #### :blue_square: Supressor
 
 #### :calendar: Challenge
+
+> The Core Four
+
+This is completed automatically via the recommended strategy of shooting all four cores off the boss.
 
 ---
 

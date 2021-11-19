@@ -382,4 +382,4 @@ There are four :radioactive: Core deposit points, called :wastebasket: bins, arr
 |-----------------------------------------------|----------------------------|
 | [link](https://imgur.com/user/vargamatemedia) | Illustrated Encounter Maps |
 | [link](https://www.niris.tv/blog/deep-stone-crypt-loot-table) | Loot Table |
-| `iAthanasia` | **Atraks**: Kaboom? yes |
+| [`iAthanasia`](https://raid.report/leaderboard/sherpa/deepstonecrypt) | **Atraks**: Kaboom? yes |
